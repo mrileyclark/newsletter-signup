@@ -1,6 +1,6 @@
 # Frontend Mentor - Newsletter sign-up form with success message clone 
 
-Link to project: [https://mrileyclark.github.io/modal-project/]
+Link to project: [https://mrileyclark.github.io/newsletter-signup/]
 
 
 ![Design preview for the Newsletter sign-up form with success message coding challenge](./design/desktop-preview.jpg)
